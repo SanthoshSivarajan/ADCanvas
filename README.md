@@ -160,4 +160,4 @@ Pull requests welcome. Please open an issue first to discuss major changes.
 
 ---
 
-*Developed by Santhosh Sivarajan, Microsoft MVP -- santhosh@sivarajan.com*
+*Developed by Santhosh Sivarajan, Microsoft MVP*
