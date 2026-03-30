@@ -3,7 +3,6 @@
 ### Paint the Full Picture of Your Active Directory
 
 **Author:** Santhosh Sivarajan, Microsoft MVP
-**Email:** santhosh@sivarajan.com
 **GitHub:** [https://github.com/SanthoshSivarajan/ADCanvas](https://github.com/SanthoshSivarajan/ADCanvas)
 
 ---
