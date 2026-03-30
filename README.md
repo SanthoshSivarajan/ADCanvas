@@ -153,16 +153,14 @@ ADCanvas maps both string and numeric functional levels to friendly names:
 ## Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/screenshot-executive-summary.png)
+![Executive Summary](screenshots/Summary.jpg)
 
 ### Per-Domain Section
-![Domain Section](screenshots/screenshot-domain-section.png)
+![Domain Section](screenshots/Chart-1.jpg)
 
 ### Forest-Wide Charts
-![Charts](screenshots/screenshot-charts.png)
+![Charts](screenshots/Diagram-1.jpg)
 
-### DC Table
-![DC Table](screenshots/screenshot-dc-table.png)
 
 ## License
 
