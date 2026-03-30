@@ -150,6 +150,20 @@ ADCanvas maps both string and numeric functional levels to friendly names:
 | 69 | Windows Server 2012 R2 |
 | 56 | Windows Server 2012 |
 
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/screenshot-executive-summary.png)
+
+### Per-Domain Section
+![Domain Section](screenshots/screenshot-domain-section.png)
+
+### Forest-Wide Charts
+![Charts](screenshots/screenshot-charts.png)
+
+### DC Table
+![DC Table](screenshots/screenshot-dc-table.png)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
