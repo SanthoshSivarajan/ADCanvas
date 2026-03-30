@@ -13,6 +13,16 @@ ADCanvas is a single PowerShell script that enumerates your entire Active Direct
 
 Run one script. Open one HTML file. See everything.
 
+## Purpose
+Managing Active Directory environments can become complex over time.  
+ADCanvas is intended to provide a clear way to map, understand, and document AD structures, relationships, and configurations.
+
+## Who This Is For
+- Active Directory administrators  
+- Infrastructure engineers  
+- IT architects  
+- Anyone managing enterprise directory environments  
+
 ## Quick Start
 
 ```powershell
