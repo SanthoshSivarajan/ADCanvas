@@ -161,6 +161,8 @@ ADCanvas maps both string and numeric functional levels to friendly names:
 ### Forest-Wide Charts
 ![Charts](screenshots/Diagram-1.jpg)
 
+### Summary
+![Charts](screenshots/AD.jpg)
 
 ## License
 
