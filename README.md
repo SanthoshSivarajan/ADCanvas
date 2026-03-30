@@ -63,17 +63,17 @@ Open the generated `ADCanvas_<timestamp>.html` in any browser.
 ### Visual Components (11+ Charts + 5 SVG Diagrams)
 
 **Charts:**
-- User Accounts (donut) -- forest-wide status breakdown
-- Computer Accounts (donut) -- forest-wide status breakdown
-- DC Type Distribution (donut) -- RWDC vs RODC
-- DCs by Site (bar)
-- Groups (bar) -- security/distribution/scope breakdown
-- GPO Status (bar) -- enabled/disabled/partial
-- OS Distribution (donut)
-- Users by Domain (bar) -- cross-domain comparison
-- Computers by Domain (bar)
-- DCs by Domain (bar)
-- Privileged Group Members (bar) -- top 15 across all domains
+- User Accounts -- forest-wide status breakdown
+- Computer Accounts  -- forest-wide status breakdown
+- DC Type Distribution  -- RWDC vs RODC
+- DCs by Site 
+- Groups  -- security/distribution/scope breakdown
+- GPO Status  -- enabled/disabled/partial
+- OS Distribution 
+- Users by Domain  -- cross-domain comparison
+- Computers by Domain 
+- DCs by Domain 
+- Privileged Group Members -- top 15 across all domains
 
 **SVG Diagrams:**
 - FSMO Role Distribution -- which DCs hold which roles
